@@ -1,7 +1,7 @@
 # Fabricatable-Clamp
 A machining vise and toolholder combo
 
-### February 26th, 2024*
+### February 26th, 2024
 
 ![](img/24.2.2024-sketch.jpg)
 *First sketch with a trademarked name, ehm*
