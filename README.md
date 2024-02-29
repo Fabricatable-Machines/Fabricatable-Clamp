@@ -27,3 +27,8 @@ A machining vise and toolholder combo
  - 2x M5 nuts
  - A spring of 6-8mm diameter
  - Filament for FDM printing
+ 
+ **Results from firsts tests**
+ 
+ - Promising
+ - Rotational rigidity seems insufficient
