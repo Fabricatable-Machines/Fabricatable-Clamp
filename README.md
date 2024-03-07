@@ -1,7 +1,11 @@
-# Fabricatable-Clamp
-A machining vise and toolholder combo
+### March 7th 2024
 
-### February 26th, 2024
+![](img/quad-kcleat-sketch.JPG)
+Exploring the possibility of hacking Jake Read's [Kleat](https://clank.tools/tools/) tool changer system to work in four directions instead of developing my own. Jakes's original left and hacked version right. Looks promising and it is very valuable to share standard geometries for designs.
+
+### February 26th 2024
+
+Sketches and quick test of a combo CNC machining stock holder and tool holder inspired by Jake Read's [Kleat](https://clank.tools/tools/) tool changer system and various dovetail clamping systems in the CNC industry.
 
 ![](img/24.2.2024-sketch.jpg)
 *First sketch with a trademarked name, ehm*
